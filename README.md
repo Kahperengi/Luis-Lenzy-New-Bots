@@ -18,5 +18,5 @@
 ![image](https://cdn.discordapp.com/attachments/1112654216511623208/1112846104338370581/image.png)
 ![image](https://cdn.discordapp.com/attachments/1112654216511623208/1112846471851692062/image.png)
  
-- Bu Ve Bunun Gibi Birçok Sistem Bulunmaktadır Herkese Hitap Eden Komutlardır. Daha Fazla Bilgi İçin Sunucumuza Gelebilirsiniz.
+- Bu Ve Bunun Gibi Birçok Sistem Bulunmaktadır Daha Fazla Bilgi İçin Sunucumuza Gelebilirsiniz.
   
