@@ -4,3 +4,5 @@
 
 - Kullandığım Bot Budur; <p> 
 ![image](https://cdn.discordapp.com/attachments/996025851298717798/1112842508788048012/image.png)
+  
+- Developer Sunucumuz: [Space Developer](https://discord.gg/gjjHmhTFhY)
