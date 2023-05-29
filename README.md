@@ -1,4 +1,4 @@
-# Space Team 💢
+# Space Developer 💢
 [![Discord Presence](https://lanyard.cnrad.dev/api/727342003339395146)](https://discord.com/users/727342003339395146)
 [![Discord Presence](https://lanyard.cnrad.dev/api/896834304930369578)](https://discord.com/users/896834304930369578)
 
